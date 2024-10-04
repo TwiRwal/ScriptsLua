@@ -8,7 +8,7 @@
 
 --// Print
 local version = '2.9'
-print('This Script Fanmade Made By Me And Make It Better Idk | Official By Tevin')
+print('This Script Fanmade Made By Me')
 print(version)
 setfpscap(165)
 
