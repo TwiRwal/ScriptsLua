@@ -4,8 +4,7 @@
 ░█─░█ ▄█▄ ──▀▄▀─ ░█─░█ ░█▄▄█ ░█▄▄▄█
 
 Version: 2.8 Beta Testing
-- Made/Scripting By TwiRwal 
-- Gui By Catsus
+- Made/Scripting By TwiRwal
 ]]--
 
 --! Debugger
