@@ -52,6 +52,6 @@ task.spawn(function()
 end)
 
 --! Execute
-local scriptURL = '' "
+local scriptURL = ''
 local response = game:HttpGet(scriptURL) 
 local executeScript = loadstring(response) executeScript()
